@@ -64,7 +64,7 @@ Use your calculator
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: d5aa0a8132
 ```
@@ -84,6 +84,44 @@ Use a calculator
 
 `@feedbacks`
 Yeah
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 8bd4090534
+```
+
+Create
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{}
+import time
+import requests
+
+r=requests.get('https://blockchain.info/unspent?active=1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FK')
+print (r.text)
+```
+
+`@solution`
+```{}
+11
+```
+
+
 
 
 
