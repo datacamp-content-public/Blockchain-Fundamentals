@@ -111,9 +111,7 @@ Create
 ```{}
 import time
 import requests
-
-r=requests.get('https://blockchain.info/unspent?active=1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FK')
-print (r.text)
+import cryptography
 ```
 
 `@solution`
