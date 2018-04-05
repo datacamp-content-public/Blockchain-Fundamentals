@@ -116,7 +116,7 @@ import cryptography
 
 `@solution`
 ```{}
-11
+print(11)
 ```
 
 
