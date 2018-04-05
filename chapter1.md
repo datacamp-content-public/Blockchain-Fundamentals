@@ -50,13 +50,13 @@ Use your calculator
 
 
 `@possible_answers`
-[11]
 12
+[11]
 13
 14
 
 `@feedbacks`
-1.
+
 
 
 
