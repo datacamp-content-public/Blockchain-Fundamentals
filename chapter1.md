@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,51 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 7842ae3d7e
+key: acf2a48ffd
 ```
 
 
-`@instructions`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 1471263616
+```
+
+What is the answer to 5 + 6?
+
 
 `@hint`
+Use your calculator
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
+`@possible_answers`
+[11]
+12
+13
+14
 
-```
+`@feedbacks`
+1.
 
-`@sct`
-```{python}
 
-```
+
